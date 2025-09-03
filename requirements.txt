@@ -1,0 +1,15 @@
+requests
+trafilatura
+beautifulsoup4
+lxml
+tldextract
+scikit-learn
+sentence-transformers
+numpy
+regex
+python-dateutil
+rank_bm25
+pyyaml
+tabulate
+streamlit
+spacy>=3.0
